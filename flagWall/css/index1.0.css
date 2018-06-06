@@ -4290,7 +4290,7 @@ figure {
   width: 100%;
 }
 .index-section1 .picWall {
-  height: 560px;
+  min-height: 560px;
 }
 .index-section1 h1:before {
   content: "";
@@ -5140,7 +5140,7 @@ figure {
     padding-top: 20px;
   }
   .index-section1 .picWall {
-    height: 489.6px;
+    min-height: 489.6px;
   }
   .index-section1 .picWall h2 {
     font: bold 15px/1.5em 'Microsoft YaHei';
@@ -5161,7 +5161,7 @@ figure {
     padding-top: 20px;
   }
   .index-section1 .picWall {
-    height: 454.6px;
+    min-height: 454.6px;
   }
   .index-section1 .picWall h2 {
     font: normal 14px/1.5em 'Microsoft YaHei';
