@@ -64,7 +64,7 @@ function bannersliderInit() {
         slider.off('touchmove');
     });
 
-    $('.flex-control-nav').css("z-index", "10000" );
+    $('.flex-control-nav').css("z-index", "100" );
 }
 function section4SliderInit() {
     $('.section4Slider').flexslider({
