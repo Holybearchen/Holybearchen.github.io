@@ -4837,7 +4837,7 @@ h2.picWallTitle {
   position: absolute;
   width: 100%;
   bottom: 0;
-  height: 90px;
+  min-height: 90px;
   padding-top: 10px;
   background-color: rgba(0, 0, 0, 0.5);
 }
